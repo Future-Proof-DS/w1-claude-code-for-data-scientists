@@ -54,9 +54,3 @@ Expect `passed`. To verify the checker against the archive backup:
 E-commerce customer churn from Kaggle (Anagha Paul), ~5.6k rows. Missing values and inconsistent labels (e.g. `"CC"` vs `"Credit Card"`) are part of the point.
 
 https://www.kaggle.com/datasets/anaghapaul/e-commerce-dataset
-
-## Facilitator notes
-
-Session plan and prompts: `Workshop 1 Concept & Outline Claude.txt`.
-
-Before the workshop, run the analysis + `/data-summary` prompts once cold, then copy the chart and memo into `outputs/archive/`.
