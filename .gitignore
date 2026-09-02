@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Live demo artifacts; keep archive/ backups committed
+outputs/*
+!outputs/.gitkeep
+!outputs/archive/
+!outputs/archive/**
